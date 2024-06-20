@@ -35,9 +35,9 @@ Explore some of my projects where I tackle real-world challenges in a funny and 
 - **Infrastructure as Code (IaC):** Using tools like Terraform and Ansible to manage and provision infrastructure.
 - **Monitoring and Logging:** Setting up monitoring systems and log management to ensure system health and performance.
 
-### Actually...
+### :leaves: Currently
 
 - 🔭 I’m working on <img src="logos/tf.png" alt="Kubernetes" width="15" height="15">&nbsp;&nbsp;&&nbsp;&nbsp;<img src="logos/ansible.png" alt="Kubernetes" width="15" height="15"> Projects.
-- 🌱 I’m currently learning `PHP` and `Wordpress` to design fancy Web Pages.
-- 👯 I’m looking to collaborate on some `End-to-end` project. 
+- 🌱 Learning `PHP` and `Wordpress` to design fancy Web Pages.
+- 👯 Looking to collaborate on some `End-to-end` project. 
 - 📫 How to reach me: [andreasscorelli@gmail.com](mailto:andreasscorelli@gmail.com)
