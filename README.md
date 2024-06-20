@@ -29,13 +29,13 @@ Hello and welcome to my GitHub profile! I'm passionate about code and infra so I
     - <img src="logos/proxmox.png" alt="Kubernetes" width="15" height="15"> VM's management 
     - <img src="logos/percona.png" alt="Kubernetes" width="15" height="15"> DB clusters bulding
     - :octocat: Git lover :purple_heart:
-### 🚀 My Projects
+## 🚀 My Projects
 Explore some of my projects where I tackle real-world challenges in a funny and really straight-forward way:
 - **CI/CD Pipelines:** Automating build, test, and deployment processes.
 - **Infrastructure as Code (IaC):** Using tools like Terraform and Ansible to manage and provision infrastructure.
 - **Monitoring and Logging:** Setting up monitoring systems and log management to ensure system health and performance.
 
-### :leaves: Currently
+## :leaves: Currently
 
 - 🔭 I’m working on <img src="logos/tf.png" alt="Kubernetes" width="15" height="15">&nbsp;&nbsp;&&nbsp;&nbsp;<img src="logos/ansible.png" alt="Kubernetes" width="15" height="15"> Projects.
 - 🌱 Learning `PHP` and `Wordpress` to design fancy Web Pages.
