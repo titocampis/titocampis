@@ -2,7 +2,9 @@
 
 ## 🔧 Platform DevOps & SysAdmin Engineer :computer:
 
-Hello and welcome to my GitHub profile!. I'm innovative and driven **Platform DevOps and SysAdmin Engineer** with a passion for coding and infrastructure. I excel at bridging the gap between development and operations, ensuring seamless integration and efficiency **IaC** and **CI/CD** projects. Here you'll find a collection of my personal repositories, contributions, and explorations in the realms of Infrastructure Management, DevOps Tools and System Administration.
+Hello and welcome to my GitHub profile!. I'm innovative and driven **Platform DevOps and SysAdmin Engineer** with a passion for coding and infrastructure. I excel at bridging the gap between development and operations, ensuring seamless integration and efficiency **IaC** and **CI/CD** projects. 
+
+Here you'll find a collection of my personal repositories, contributions, and explorations in the realms of Infrastructure Management, DevOps Tools and System Administration.
 
 ###  What I Do?
 - **Platform Engineering:** Building and optimizing reliable and scalable Infrastructure, either Onpremise or Cloud, ready to run any application using the best IaC tools:
