@@ -2,7 +2,7 @@
 
 ## 🔧 Platform DevOps & SysAdmin Engineer :computer:
 
-Hello and welcome to my GitHub profile! I'm passionate about code and infra so I'm the guy bridging the gap between development and operations, ensuring seamless and efficient IaC and CI/CD projects. Here you'll find a collection of my personal repositories, contributions, and explorations in the realms of Infrastructure Management, DevOps Tools and System Administration.
+Hello and welcome to my GitHub profile!. I'm innovative and driven Platform DevOps and SysAdmin Engineer with a passion for coding and infrastructure. I excel at bridging the gap between development and operations, ensuring seamless integration and efficiency in Infrastructure as Code (IaC) and Continuous Integration/Continuous Deployment (CI/CD) projects.  Here you'll find a collection of my personal repositories, contributions, and explorations in the realms of Infrastructure Management, DevOps Tools and System Administration.
 
 ###  What I Do?
 - **Platform Engineering:** Building and optimizing reliable and scalable Infrastructure, either Onpremise or Cloud, ready to run any application using the best IaC tools:
@@ -22,7 +22,7 @@ Hello and welcome to my GitHub profile! I'm passionate about code and infra so I
     - <img src="logos/php.png" alt="Kubernetes" width="16" height="15"> Php
     - <img src="logos/js.png" alt="Kubernetes" width="16" height="15"> Javascript & HTML
 
-- **System Administration:** Building, configuring managing and maintaining servers (Physical, VM's or Conainers), ensuring security, and optimizing performance.
+- **System Administration:** Building, configuring, managing and maintaining servers (Physical, VM's or Conainers), ensuring security, and optimizing performance.
     - Debian <img src="logos/raspbian.png" alt="Kubernetes" width="21" height="14"> <img src="logos/ubuntu.png" alt="Kubernetes" width="15" height="15"> 
     - RedHat <img src="logos/almalinux.png" alt="Kubernetes" width="16" height="15">&nbsp;&nbsp;<img src="logos/centos.png" alt="Kubernetes" width="16" height="15">&nbsp;&nbsp;<img src="logos/rh.png" alt="Kubernetes" width="16" height="15">  
     - <img src="logos/opnsense.png" alt="Kubernetes" width="15" height="15"> Network management
